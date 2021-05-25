@@ -13,9 +13,9 @@ const peerserver = PeerServer({
             { url: "stun:stun3.l.google.com:19302" },
             { url: "stun:stun4.l.google.com:19302" },
             {
-                urls: ["turn:13.250.13.83:3478?transport=udp"],
-                username: "YzYNCouZM1mhqhmseWk6",
-                credential: "YzYNCouZM1mhqhmseWk6",
+                url: "turn:numb.viagenie.ca",
+                credential: "muazkh",
+                username: "webrtc@live.com",
             },
         ],
     },
